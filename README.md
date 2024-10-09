@@ -1,7 +1,7 @@
 # Multi-Label-Emotion-Classification-using-NLP
 
 ## Emotional Dataset README
-
+![Local Image](./emotionimage.png)
 ### Overview
 This dataset contains text samples labeled with various emotions. It is designed for use in Natural Language Processing (NLP) tasks, specifically for emotion detection and sentiment analysis.
 
