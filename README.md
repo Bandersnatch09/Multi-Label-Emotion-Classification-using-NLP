@@ -27,11 +27,11 @@ The dataset is provided in CSV format with the following columns:
 - `len of classes`:This indicates the number of unique emotion classes present in the dataset. For example, if the list of classes contains six emotions, the `len of classes` would be 6.
 
 #### Example Entry
-| id | text                         | emotion  |
-|----|------------------------------|----------|
-| 1  | "I just got a promotion!"    | Happiness |
-| 2  | "I feel so lonely today."    | Sadness   |
-| 3  | "This is absolutely unfair!" | Anger     |
+|    | text                         |label |    Id   | List of classes |Len of classes| emotions  |
+|----|------------------------------|------|---------|-----------------|--------------|-----------|
+| 1  | "I just got a promotion!"    |  27  | eebbqej |      [27]       |       1      |  Happiness|
+| 2  | "I feel so lonely today."    |  08  | eebb08y |      [08]       |       1      |  Sadness  |
+| 3  | "This is absolutely unfair!" |  13  | wsbbqej |      [13]       |       1      |  Anger    |
 
 ### Usage
 This dataset can be used to train machine learning models for emotion classification. It is suitable for both supervised learning tasks and for fine-tuning pre-trained models.
