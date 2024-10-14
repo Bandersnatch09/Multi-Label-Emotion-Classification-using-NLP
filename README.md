@@ -68,6 +68,7 @@ Especially in regulated sectors, make CNN outputs interpretable by using tools l
 *Constant Maintenance
 
 ### Conclusion
+This project demonstrates a basic approach to multi-class classification using a neural network in Keras. The model is designed to classify text into seven categories, and one-hot encoding is applied to prepare the labels for training. Further improvements can be made by experimenting with different architectures, regularization techniques, and hyperparameter tuning.
 We Decided to use CNN , In a business scenario, the objective is to guarantee that the CNN contributes quantifiable benefit to company outcomes in addition to attaining high accuracy. Prioritise guaranteeing scalability, cost-effectiveness, explainability for stakeholders, and matching model performance to business objectives. You can optimise the model's effect on the company by keeping an eye on it and making improvements all the time.
   
 
